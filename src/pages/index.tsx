@@ -1,7 +1,7 @@
+import {Example} from '../components/Example'
+
 const Page = () => {
-  return (
-    <p>Hello, world!</p>
-  )
+  return <Example/>
 }
 
 export default Page
